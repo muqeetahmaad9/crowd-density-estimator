@@ -1,0 +1,8 @@
+
+
+opencv-python
+ultralytics
+streamlit
+opencv-python
+ultralytics
+numpy
